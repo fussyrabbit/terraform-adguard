@@ -3,7 +3,7 @@
 Simple terraform module which manage AdGuard Home DNS server.
 
 ## Documentation
-This module use [gmichels/terraform-provider-adguard](https://github.com/gmichels/terraform-provider-adguard) provider. Most of options can be found in provider terraform registry [page](https://registry.terraform.io/providers/gmichels/adguard/latest/docs).
+This module use [gmichels/terraform-provider-adguard](https://github.com/gmichels/terraform-provider-adguard) provider. Most of options can be found in provider terraform registry [page](https://registry.terraform.io/providers/gmichels/adguard/latest/docs). Before you start don't configure provider for connect to AdGuadrd Home.
 
 ## Requirements
 
